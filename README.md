@@ -15,4 +15,6 @@ commands for git (introduction to Git commands)
 
         cd cloned/repository/folder name
         
-        e.g: cd git-commands
+e.g: 
+         
+         C:\Users\anurag\cd git-commands
