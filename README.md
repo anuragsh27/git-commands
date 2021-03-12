@@ -1,9 +1,8 @@
 ##git-commands
 commands for git (introduction to Git commands)
 
-Clone a gitlab project
+Clone a gitlab project (git clone)
 
-- git clone 
-   git clone /path/to/repository
+   - git clone /path/to/repository
 
 
